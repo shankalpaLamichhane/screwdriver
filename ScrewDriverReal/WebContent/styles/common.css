@@ -1,0 +1,11 @@
+*{
+	margin:0;
+	padding:0;
+}
+form{
+	margin:20px 60px;
+}
+form label{
+	color:#000000;
+	font-size:20px;
+}
